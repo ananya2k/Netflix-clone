@@ -1,8 +1,8 @@
 <h1> Please check out the appliction from below link 👇 </h1> 
         https://netflix-clone-d047a.web.app
         
-        <br>
-        <br>
+        <br/>
+        <br/>
 
 
 
