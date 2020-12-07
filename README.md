@@ -1,3 +1,12 @@
+<h1> Please check out the appliction from below link 👇 </h1> 
+        https://netflix-clone-d047a.web.app
+        
+        <br/>
+        <br/>
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
